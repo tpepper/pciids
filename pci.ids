@@ -77,18 +77,18 @@
 0b0b  Rhino Equipment Corp.
 	0105  R1T1
 	0205  R4FXO
-	0206  RCB4FXO 4-channel FXO analog telphony card
+	0206  RCB4FXO 4-channel FXO analog telephony card
 	0305  R4T1
 	0405  R8FXX
-	0406  RCB8FXX 8-channel modular analog telphony card
+	0406  RCB8FXX 8-channel modular analog telephony card
 	0505  R24FXX
-	0506  RCB24FXS 24-Channel FXS analog telphony card
+	0506  RCB24FXS 24-Channel FXS analog telephony card
 	0605  R2T1
 	0705  R24FXS
-	0706  RCB24FXO 24-Channel FXO analog telphony card
+	0706  RCB24FXO 24-Channel FXO analog telephony card
 	0905  R1T3 Single T3 Digital Telephony Card
-	0906  RCB24FXX 24-channel modular analog telphony card
-	0a06  RCB672FXX 672-channel modular analog telphony card
+	0906  RCB24FXX 24-channel modular analog telephony card
+	0a06  RCB672FXX 672-channel modular analog telephony card
 0e11  Compaq Computer Corporation
 	0001  PCI to EISA Bridge
 	0002  PCI to ISA Bridge
@@ -4620,7 +4620,7 @@
 		102b 0f84  Millennium G550 Dual Head DDR 32Mb
 		102b 1e41  Millennium G550
 		102b 2300  Millennium G550 LP PCIE
-	2537  Millenium P650/P750
+	2537  Millennium P650/P750
 		102b 1820  Millennium P750 64MB
 		102b 1830  Millennium P650 64MB
 		102b 1850  RAD2mp
@@ -4628,7 +4628,7 @@
 		102b 1880  Sono S10
 		102b 1c10  QID 128MB
 		102b 2811  Millennium P650 Low-profile PCI 64MB
-		102b 2821  Millenium P650 Low-profile PCI
+		102b 2821  Millennium P650 Low-profile PCI
 		102b 2841  RAD PCI
 		102b 2851  Spectrum PCI
 		102b 2871  EpicA TC2
@@ -4642,7 +4642,7 @@
 		102b 3051  RG-400SL
 		102b 3061  Extio F1420
 		102b 3081  Extio F1240
-	2538  Millenium P650 PCIe
+	2538  Millennium P650 PCIe
 		102b 0847  RAD PCIe
 		102b 08c7  Millennium P650 PCIe 128MB
 		102b 0907  Millennium P650 PCIe 64MB
@@ -4650,23 +4650,23 @@
 		102b 0987  ATC PCIe 4MP
 		102b 1047  Millennium P650 LP PCIe 128MB
 		102b 1087  Millennium P650 LP PCIe 64MB
-		102b 1801  Millenium P650 PCIe x1
+		102b 1801  Millennium P650 PCIe x1
 		102b 2538  Parhelia APVe
 		102b 3007  QID Low-profile PCIe
 		102b 3087  Aurora VX3mp
 		102b 30c7  QID LP PCIe
 	2539  Millennium P690
-		102b 0040  Millenium P690 PCIe x16
+		102b 0040  Millennium P690 PCIe x16
 		102b 0042  ONYX
 		102b 0043  SPECTRA
-		102b 0080  Millenium P690 Plus LP PCIe x16
-		102b 0081  Millenium P690 LP PCIe x16
+		102b 0080  Millennium P690 Plus LP PCIe x16
+		102b 0081  Millennium P690 LP PCIe x16
 		102b 0082  RAD LPX PCIe x16
-		102b 00c0  Millenium P690 Plus LP PCI
-		102b 00c2  Millenium P690 LP PCI
+		102b 00c0  Millennium P690 Plus LP PCI
+		102b 00c2  Millennium P690 LP PCI
 		102b 00c3  RAD LPX PCI
-		102b 0101  Millenium P690 PCI
-		102b 0140  Millenium P690 LP PCIe x1
+		102b 0101  Millennium P690 PCI
+		102b 0140  Millennium P690 LP PCIe x1
 		102b 0180  Display Wall IP Decode 128 MB
 	4164  Morphis QxT frame grabber
 	43b4  Morphis Qxt encoding engine
@@ -9269,19 +9269,19 @@
 	0533  C67 [GeForce 7000M / nForce 610M]
 	053a  C68 [GeForce 7050 PV / nForce 630a]
 	053b  C68 [GeForce 7050 PV / nForce 630a]
-		1043 8308  M2N68-AM Motherbord
+		1043 8308  M2N68-AM Motherboard
 	053e  C68 [GeForce 7025 / nForce 630a]
 	0541  MCP67 Memory Controller
 	0542  MCP67 SMBus
-		1043 8308  M2N68-AM Motherbord
+		1043 8308  M2N68-AM Motherboard
 	0543  MCP67 Co-processor
 	0547  MCP67 Memory Controller
-		1043 8308  M2N68-AM Motherbord
+		1043 8308  M2N68-AM Motherboard
 		1849 0547  ALiveNF7G-HDready
 	0548  MCP67 ISA Bridge
 		1043 8308  M2N68-AM Motherboard
 	054c  MCP67 Ethernet
-		1043 8308  M2N68-AM Motherbord
+		1043 8308  M2N68-AM Motherboard
 		1849 054c  ALiveNF7G-HDready, MCP67 Gigabit Ethernet
 	054d  MCP67 Ethernet
 	054e  MCP67 Ethernet
@@ -15296,7 +15296,7 @@
 	0040  QSC-200/300
 	0050  ESC-100D
 	0060  ESC-100M
-	00f0  MPAC-100 Syncronous Serial Card (Zilog 85230)
+	00f0  MPAC-100 Synchronous Serial Card (Zilog 85230)
 	0170  QSCLP-100
 	0180  DSCLP-100
 	0190  SSCLP-100
@@ -24793,7 +24793,7 @@
 		8086 a000  D865PERL mainboard
 		8086 e000  D865PERL mainboard
 		8086 e001  Desktop Board D865GBF
-		8086 e002  SoundMax Intergrated Digital Audio
+		8086 e002  SoundMax Integrated Digital Audio
 	24d6  82801EB/ER (ICH5/ICH5R) AC'97 Modem Controller
 		103c 006a  NX9500
 	24d7  82801EB/ER (ICH5/ICH5R) USB UHCI Controller #3
@@ -25965,7 +25965,7 @@
 	284b  82801H (ICH8 Family) HD Audio Controller
 		1025 011f  Realtek ALC268 audio codec
 		1025 0121  Aspire 5920G
-		1025 0145  Realtek ALC889 (Aspire 8920G w. Dolby Theather)
+		1025 0145  Realtek ALC889 (Aspire 8920G w. Dolby Theater)
 		1028 01da  OptiPlex 745
 		1028 01f3  Inspiron 1420
 		1028 01f9  Latitude D630
